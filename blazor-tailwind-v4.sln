@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTailwind", "BlazorTailwind\BlazorTailwind.csproj", "{10C9829D-4365-468B-B38D-487070D6F1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C9829D-4365-468B-B38D-487070D6F1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C9829D-4365-468B-B38D-487070D6F1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C9829D-4365-468B-B38D-487070D6F1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C9829D-4365-468B-B38D-487070D6F1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B994D81E-C057-4DB6-AC8A-A315F013C504}
+	EndGlobalSection
+EndGlobal
